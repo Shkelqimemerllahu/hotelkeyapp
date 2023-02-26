@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Arian Dervishaj",
+      "date": "1995-01-12",
+      "city": "Peja"
+    },
+    {
+      "id": 2,
+      "name": "Flaka Avdija",
+      "date": "1992-03-25",
+      "city": "Tirana"
+    },
+    {
+      "id": 3,
+      "name": "Arbër Gjini",
+      "date": "1996-07-24",
+      "city": "Peja"
+    },
+    {
+      "id": 5,
+      "name": "Vjollca Krasniqi",
+      "date": "1988-02-18",
+      "city": "Gjilan"
+    },
+    {
+      "id": 6,
+      "name": "Afrim Rama",
+      "date": "1984-09-11",
+      "city": "Tirana"
+    },
+    {
+      "id": 7,
+      "name": "Burim Hysi",
+      "date": "1999-10-22",
+      "city": "Deqan"
+    },
+    {
+      "id": 8,
+      "name": "Diar Fonda",
+      "date": "1999-02-22",
+      "city": "Gjakov"
+    },
+    {
+      "id": 12,
+      "name": "Luljeta Berisha",
+      "date": "2019-02-22",
+      "city": "Peje"
+    },
+    {
+      "id": 13,
+      "name": "Gyli Lleshi",
+      "date": "2004-03-08",
+      "city": "Shqiperi"
+    },
+    {
+      "id": 4,
+      "name": "Enis Hysi",
+      "date": "1990-10-10",
+      "city": "Gjakov"
+    }
+  ],
+  "archive": [
+    {
+      "id": 15,
+      "name": "Ajla Gashi",
+      "date": "2004-02-05",
+      "city": "Peje"
+    },
+    {
+      "id": 4,
+      "name": "Enis Hysi",
+      "date": "1990-10-10",
+      "city": "Gjakov"
+    },
+    {
+      "id": 13,
+      "name": "Gyli Lleshi",
+      "date": "2004-03-08",
+      "city": "Shqiperi"
+    }
+  ]
+}
